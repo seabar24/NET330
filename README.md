@@ -2,7 +2,6 @@
 > Github for Network Design w/ David Ginter. Main hub and links to Labs + Downloads.
 ## Labs
 > Documentation of Labs and Tech Journal Entries
-* [Lab 1-1](https://github.com/seabar24/NET330/wiki/Lab-1%E2%80%901)
 
 * [Lab 2-1](https://github.com/seabar24/NET330/wiki/Lab-2‐1)
 
