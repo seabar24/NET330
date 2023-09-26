@@ -9,9 +9,9 @@
 
 * [Lab 4-1](https://github.com/seabar24/NET330/wiki/Lab-4‐1)
   ### Switch Configurations for Lab 4-1
-  * [North-Yonder-Wing-SW-Clinic]()
-  * [South-Yonder-Wing-SW-Admin]()
-  * [Yonder-MLS]()
+  * [North-Yonder-Wing-SW-Clinic](https://github.com/seabar24/NET330/blob/Home/North-Yonder-Wing-SW-Clinic.txt)
+  * [South-Yonder-Wing-SW-Admin](https://github.com/seabar24/NET330/blob/Home/South-Yonder-Wing-SW-Admin.txt)
+  * [Yonder-MLS](https://github.com/seabar24/NET330/blob/Home/Yonder-MLS.txt)
 
 * [Lab 5-1]()
 
