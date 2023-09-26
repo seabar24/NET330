@@ -8,6 +8,10 @@
 * [Lab 3-2](https://github.com/seabar24/NET330/wiki/Lab-3‐2)
 
 * [Lab 4-1](https://github.com/seabar24/NET330/wiki/Lab-4‐1)
+  ### Switch Configurations for Lab 4-1
+  * [North-Yonder-Wing-SW-Clinic]()
+  * [South-Yonder-Wing-SW-Admin]()
+  * [Yonder-MLS]()
 
 * [Lab 5-1]()
 
@@ -18,3 +22,4 @@
 * [Lab 2-1.pkt](https://champlain.instructure.com/courses/2088102/assignments/31053546/submissions/4076874?download=281835115)
 
 * [Lab 3-2.pkt](https://champlain.instructure.com/courses/2088102/assignments/31053552/submissions/4076874?download=282587051)
+
