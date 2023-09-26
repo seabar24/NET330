@@ -7,6 +7,10 @@
 
 * [Lab 3-2](https://github.com/seabar24/NET330/wiki/Lab-3‐2)
 
+* [Lab 4-1](https://github.com/seabar24/NET330/wiki/Lab-4‐1)
+
+* [Lab 5-1]()
+
 ## Downloads
 > Completed Labs and their downloads
 * [Lab 1-3.pkt](https://champlain.instructure.com/courses/2088102/assignments/31053540/submissions/4076874?download=281735857)
