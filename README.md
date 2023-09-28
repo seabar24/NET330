@@ -13,7 +13,7 @@
   * [South-Yonder-Wing-SW-Admin](https://github.com/seabar24/NET330/blob/Home/South-Yonder-Wing-SW-Admin.txt)
   * [Yonder-MLS](https://github.com/seabar24/NET330/blob/Home/Yonder-MLS.txt)
 
-* [Lab 5-1]()
+* [Lab 5-1](https://github.com/seabar24/NET330/wiki/Lab-5‐1)
 
 ## Downloads
 > Completed Labs and their downloads
@@ -23,3 +23,4 @@
 
 * [Lab 3-2.pkt](https://champlain.instructure.com/courses/2088102/assignments/31053552/submissions/4076874?download=282587051)
 
+* [Lab 5-1.pkt](https://champlain.instructure.com/courses/2088102/assignments/31053556/submissions/4076874?download=284748605)
