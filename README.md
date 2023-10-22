@@ -15,6 +15,9 @@
 
 * [Lab 5-1](https://github.com/seabar24/NET330/wiki/Lab-5‐1)
 
+* [Lab 6-1](https://github.com/seabar24/NET330/wiki/Lab-6‐1)
+
+* [Lab 6-2](https://github.com/seabar24/NET330/wiki/Lab-6‐2)
 ## Downloads
 > Completed Labs and their downloads
 * [Lab 1-3.pkt](https://champlain.instructure.com/courses/2088102/assignments/31053540/submissions/4076874?download=281735857)
@@ -24,3 +27,7 @@
 * [Lab 3-2.pkt](https://champlain.instructure.com/courses/2088102/assignments/31053552/submissions/4076874?download=282587051)
 
 * [Lab 5-1.pkt](https://champlain.instructure.com/courses/2088102/assignments/31053556/submissions/4076874?download=284748605)
+
+* [Lab 6-1.pkt](https://drive.google.com/file/d/1RovdpxjgWyphNu5LPX-U9XxPx5UdPUvP/view?usp=sharing)
+
+* [Lab 6-2.pkt](https://drive.google.com/file/d/1OrzOmuaPnnW1fJXbXb5ye8tnAhsUmjXO/view?usp=sharing)
